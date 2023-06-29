@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codepronto
 - 👀 I’m interested in coding especially in Python
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently working on Fast API and Flask frameworks.
 - 📫 How to reach me ... subu.india18@gmail.com
 
 <!---
